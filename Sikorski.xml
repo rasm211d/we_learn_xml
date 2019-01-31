@@ -2,12 +2,12 @@
 <WorldOfWarcarft>
   <class>
     <Warrior>
-      <type>Humam</type>
-      <type>Dwaf</type>
-      <type>NightElf</type>
-      <type>Gnome</type>
-      <type>Orc</type>
-      <type>Wrogen</type>
+      <type>Height=NormalSize Humam</type>
+      <type>Height=Short Dwaf</type>
+      <type>Height=Tall NightElf</type>
+      <type>Height=VeryShort Gnome</type>
+      <type>Height=NormalSize Orc</type>
+      <type>Hright=NormalSize Wrogen</type>
     </Warrior>
   </class>
 </WorldOfWarcarft>
