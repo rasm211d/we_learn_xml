@@ -1,6 +1,7 @@
 <!-- Her viser jeg hvor dygtig jeg er til XML -->
 <?xml version="1.0" encoding="UTF-8"?>
 <note>
+  <note date="31/01/2019">
   <to>András</to>
   <from>Martin</from>
   <heading>Reminder</heading>
