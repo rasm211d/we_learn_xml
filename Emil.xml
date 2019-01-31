@@ -1,14 +1,14 @@
 <billeder>
   <memefolder>
-    <meme>
+    <meme type = "funny">
       <navn>cosbystinkdyr</navn>
       <rating>420</rating>
     </meme>
-    <meme>
+    <meme type = "cringe">
       <navn>martindab</navn>
-      <rating>1337</rating>
+      <rating>1337</rating> 
     </meme>
-    <meme>
+    <meme type = "lit">
       <navn>madsderbaenker</navn>
       <rating>9001</rating>
     </meme>
