@@ -18,12 +18,12 @@ derfor se således ud
     <year>1996</year>
   </bil>
 
-  <bil category="lastbil"> <!-- child element 2/3 -->
+  <car category="lastbil"> <!-- child element 2/3 -->
     <make>Man</make>
     <model>tgx 20000</model>
     <fuel>diesel</fuel>
     <year>2015</year>
-  </bil>
+  </car>
 
   <motorcycle category="sports/touring"> <!-- child element 3/3 -->
     <make>Kawasaki</make>
