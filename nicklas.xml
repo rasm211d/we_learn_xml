@@ -1,0 +1,22 @@
+# we_learn_xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Dette er et eksempel på en xml fil
+Jeg kan kommentere over flere linjer
+-->
+
+<mercedes>
+  <køretøjer>
+    <bil>
+    <type> c63 amg </type>
+    <pris> 1.000.000 </pris>
+    </bil>
+    
+    <lastbil>
+    <type> axor </type>
+    <pris> 1.500.000 </pris>
+    </lasbil>
+    
+    </køretøjer>    
+    </mercedes>
