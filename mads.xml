@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<skole>
+  <klasse>
+    <person gender = "Dreng">
+      <navn>Mads<\navn>
+      <alder>27<\alder>
+    <\person gender = "Dreng">
+    <person gender = "Pige">
+      <navn>Martin<\navn>
+      <alder>20<\alder>
+    <\person gender = "Pige">
+  <\klasse>
+<\skole>
+<!-- Kommentar -->
