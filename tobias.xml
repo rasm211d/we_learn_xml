@@ -1,0 +1,26 @@
+<!-- Denne fil indeholder data for some randomshit -->
+
+<Personer>
+
+  <Person>
+    
+    <Navn type="fornavn">Tobias</Navn>
+    <Navn type="mellemnavn">Harly</Navn>
+    <Navn type="efternavn">Grünewald</Navn>
+    <Ryger>true</Ryger>
+    <Alder>24</alder>
+    <Nationalitet>DK</Nationalitet>
+    
+  </Person>
+  
+  <Person>
+    
+    <Navn type="fornavn">John</Navn>
+    <Navn type="efternavn">Doe</Navn>
+    <Ryger>false</Ryger>
+    <Alder>99</alder>
+    <Nationalitet>USA</Nationalitet>
+    
+  </Person>
+
+</Personer>
