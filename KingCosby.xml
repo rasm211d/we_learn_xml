@@ -9,27 +9,27 @@ derfor se således ud
 
 <?xml version="1.0" encoding="UTF-8"?>
 
-<køretøj> <!--root element-->
+<vehicle> <!--root element-->
 
   <bil category="personbil"> <!-- child element 1/3 -->
-    <producent>Mercedes</producent>
+    <make>Mercedes</make>
     <model>E300D</model>
-    <brændstof>diesel</brændstof>
+    <fuel>diesel</fuel>
     <year>1996</year>
   </bil>
 
   <bil category="lastbil"> <!-- child element 2/3 -->
-    <producent>Man</producent>
+    <make>Man</make>
     <model>tgx 20000</model>
-    <brændstof>diesel</brændstof>
+    <fuel>diesel</fuel>
     <year>2015</year>
   </bil>
 
-  <motorcykel category="sports/touring"> <!-- child element 3/3 -->
-    <producent>Kawasaki</producent>
+  <motorcycle category="sports/touring"> <!-- child element 3/3 -->
+    <make>Kawasaki</make>
     <model>ZX10</model>
-    <brændstof>benzin (oktan 95)</brændstof>
+    <fuel>benzin (oktan 95)</fuel>
     <year>1988</year>
-  </motorcykel>  
+  </motorcycle>  
   
-</køretøj>
+</vehicle>
