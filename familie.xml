@@ -1,0 +1,48 @@
+<!-- Denne XML beskriver min familie-->
+
+<FørsteGeneration>
+  <DanBergqvist>
+    <type>Farfar</type>
+    <skill uddannelse="læge">
+  </DanBergqvist>
+  
+  <næste />
+  <MereteWitt>
+    <type>Farmor</type>
+  </MereteWitt>
+    
+  <EwaKostka>
+    <type>Mormor</type>
+  </EwaKostka>
+    
+  <PawelKostka>
+    <type>Morfar</type>
+  </PawelKostka>
+    
+  <AndenGeneration>
+    <KristianWittBergqvist>
+      <type>far</type>
+    </KristianWittBergqvist>
+          
+    <MartaBergqvist>
+      <type>Mor</type>
+    </MartaBergqvist>
+  </AndenGeneration>
+    <TredjeGen>
+      <SebastianKrzysztofBergqvist>
+        <type>Søn</type>
+      </SebastianKrzysztofBergqvist>
+        
+      <GabrielCzeslawBergqvist>
+        <type>Søn</type>
+      </GabrielCzeslawBergqvist>
+        
+      <MilenaCeciliaBergqvist>
+        <type>Datter</type>
+      </MilenaCeciliaBergqvist>
+        
+      <IsabellaSofiaBergqvist>
+        <type>Datter</type>
+      </IsabellaSofiaBergqvist>
+    </TredjeGen>
+</FørsteGeneration>
