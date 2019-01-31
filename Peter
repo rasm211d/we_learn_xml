@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Dette er et eksempel på en xml -->
+<OnlineAvis>
+  <Artikler>
+    <Genre type="Krimi">
+      <Overskrift navn="Dette er en overskrift"/>
+      <Journalist navn="Eksempel Eksempelsen"/>
+    <Genre type="Krimi"/>
+  <Artikler/>  
+<OnlineAvis/>
