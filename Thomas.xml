@@ -1,0 +1,25 @@
+<!-- denne xml fil beskriver en klasse -->
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<class>
+  <students>
+    <student name="Thomas" type="male"/>
+    <student name="Simon" type="male"/>
+    <student name="Anders" type="male"/>
+    <student name="Dan" type="male"/>
+  </students>
+    <teachers>
+      <teacher name="Andras">
+        <courses>
+          <course name="programming"/>
+          <course name="swimming"/>
+        </courses>
+      </teacher>
+      <teacher name="Anders">
+        <courses>
+          <course name="development"/>
+        </courses>
+      </teacher>
+    </teachers>
+</class>
