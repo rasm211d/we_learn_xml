@@ -1,7 +1,28 @@
-# Mathias.xml
 <?xml version="1.0" encoding="UTF-8"?>
 
-Elgiganten
+<virksomhed navn = "Elgiganten">
+<!-- Denne xml inderholder data om koden -->
+
+<butik>
+  <playstation version = "4">
+    <spil category = "sport">
+      <navn>FIFA 2019</navn>
+      <pris>500 kr</pris>
+    </spil>
+  </playstation>
+  
+  <playstation version = "3">
+    <spil>
+      <type> sport </type>
+    </spil>
+  </playstation>  
+  
+  
+</butik> 
+</virksomhed>
+
+
+<virksomhed navn = "Power">
 <!-- Denne xml inderholder data om koden -->
 
 <butik>
@@ -11,3 +32,4 @@ Elgiganten
     </playstation>
   </spil>  
 </butik> 
+</virksomhed>
