@@ -1,0 +1,60 @@
+<!-- Denne XML beskriver min familie-->
+
+<FirstGeneration>
+  <person>
+    Dan Bergqvist
+    <type>Farfar</type>
+    <skill uddannelse="læge">
+      <pensioneret/>
+  </person>
+  
+  
+  <Person>
+    Merete Witt
+    <type>Farmor</type>
+  </Person>
+    
+  <person>
+    Ewa Kostka
+    <type>Mormor</type>
+  </person>
+    
+  <person>
+    Pawel Kostka
+    <type>Morfar</type>
+  </person>
+    
+  <SecondGeneration>
+    <person>
+      Kristian Witt Bergqvist
+      <type>far</type>
+    </person>
+          
+    <person>
+      Marta Maria Bergqvist
+      <type>Mor</type>
+    </person>
+    
+    <ThirdGeneration>
+      <person>
+        Sebastian Krzysztof Bergqvist
+        <type>Søn</type>
+      </person>
+        
+      <person>
+        Gabriel Czeslaw Bergqvist
+        <type>Søn</type>
+      </person>
+        
+      <person>
+        Milena Cecilia Bergqvist
+        <type>Datter</type>
+      </person>
+        
+      <person>
+        IsabellaSofiaBergqvist
+        <type>Datter</type>
+      </person>
+    </ThirdGeneration>
+  </SecondGeneration>    
+</FirstGeneration>
