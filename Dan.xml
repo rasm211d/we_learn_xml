@@ -1,0 +1,13 @@
+<!-- Denne xml fil beskriver klassen-->
+<?xml version="0.9" encoding="UTF-8"?>
+
+<class>
+    <student navn = "Dan" >
+        <info>
+              <alder>21</alder>
+              <gender>Male</gender>
+              <adresse>Enghavevej</adresse>
+        </info>
+    </student>
+</class>
+        
