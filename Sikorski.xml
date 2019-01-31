@@ -1,0 +1,13 @@
+<!-- Denne xml inholder class/race combo for spillet World of Warcraft -->
+<WorldOfWarcarft>
+  <class>
+    <Warrior>
+      <type>Humam</type>
+      <type>Dwaf</type>
+      <type>NightElf</type>
+      <type>Gnome</type>
+      <type>Orc</type>
+      <type>Wrogen</type>
+    </Warrior>
+  </class>
+</WorldOfWarcarft>
