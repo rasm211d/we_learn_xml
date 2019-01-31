@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idemoebler>
+  <moebler>
+    <stol>
+      <type> Svanen </type>
+      <pris> 48000 </pris>
+    </stol>
+    <stol>
+      <type> Træstol </type>
+      <pris> 200 </pris>
+    </stol>
+  </moebler>
+</idemoebler>
