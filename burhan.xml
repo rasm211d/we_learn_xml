@@ -1,1 +1,12 @@
-
+<!-- Et Xml fil lavet af Burhan -->
+<klasse>
+  <student>
+    <navn>Burhan</navn>
+    <alder>37</alder>
+  </student>
+  <student>
+    <navn>Witt</navn>
+    <alder>36</alder>
+  </student>
+</klasse>
+  
