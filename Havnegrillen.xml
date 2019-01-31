@@ -1,6 +1,6 @@
 <!-- Denne XML fil indeholder data for kontaktpersoner -->
 
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-16"?>
 
 <havnegrillen>
   <ejere>
@@ -29,8 +29,8 @@
     <ret type="desert">
     Is
     </ret>
-    <ret type="tilbehør">
-    Suppe
+    <ret type="tilbehør 😀">
+    Suppe 🍲🍲🍲🍲🍲🍲🍲🍲🍲🍲🍲🍲
     </ret>
   </menukort>
 </havnegrillen>
