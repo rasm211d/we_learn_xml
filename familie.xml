@@ -1,48 +1,60 @@
 <!-- Denne XML beskriver min familie-->
 
-<FørsteGeneration>
-  <DanBergqvist>
+<FirstGeneration>
+  <person>
+    Dan Bergqvist
     <type>Farfar</type>
     <skill uddannelse="læge">
-  </DanBergqvist>
+      <pensioneret/>
+  </person>
   
-  <næste />
-  <MereteWitt>
+  
+  <Person>
+    Merete Witt
     <type>Farmor</type>
-  </MereteWitt>
+  </Person>
     
-  <EwaKostka>
+  <person>
+    Ewa Kostka
     <type>Mormor</type>
-  </EwaKostka>
+  </person>
     
-  <PawelKostka>
+  <person>
+    Pawel Kostka
     <type>Morfar</type>
-  </PawelKostka>
+  </person>
     
-  <AndenGeneration>
-    <KristianWittBergqvist>
+  <SecondGeneration>
+    <person>
+      Kristian Witt Bergqvist
       <type>far</type>
-    </KristianWittBergqvist>
+    </person>
           
-    <MartaBergqvist>
+    <person>
+      Marta Maria Bergqvist
       <type>Mor</type>
-    </MartaBergqvist>
-  </AndenGeneration>
-    <TredjeGen>
-      <SebastianKrzysztofBergqvist>
+    </person>
+    
+    <ThirdGeneration>
+      <person>
+        Sebastian Krzysztof Bergqvist
         <type>Søn</type>
-      </SebastianKrzysztofBergqvist>
+      </person>
         
-      <GabrielCzeslawBergqvist>
+      <person>
+        Gabriel Czeslaw Bergqvist
         <type>Søn</type>
-      </GabrielCzeslawBergqvist>
+      </person>
         
-      <MilenaCeciliaBergqvist>
+      <person>
+        Milena Cecilia Bergqvist
         <type>Datter</type>
-      </MilenaCeciliaBergqvist>
+      </person>
         
-      <IsabellaSofiaBergqvist>
+      <person>
+        IsabellaSofiaBergqvist
         <type>Datter</type>
-      </IsabellaSofiaBergqvist>
-    </TredjeGen>
-</FørsteGeneration>
+      </person>
+    </ThirdGeneration>
+  </SecondGeneration>    
+</FirstGeneration>
