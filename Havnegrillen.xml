@@ -1,0 +1,36 @@
+<!-- Denne XML fil indeholder data for kontaktpersoner -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<havnegrillen>
+  <ejere>
+    <navn>
+    Donald Trump
+    </navn>
+  </ejere>
+  <ansatte>
+    <navn>
+    Camilla
+    </navn>
+    <navn>
+    Cecilie
+    </navn>
+    <navn>
+    Ida
+    </navn>
+  </ansatte>
+  <menukort>
+    <ret type="forret">
+    Suppe
+    </ret>
+    <ret type="hovedret">
+    Burger
+    </ret>
+    <ret type="desert">
+    Is
+    </ret>
+    <ret type="tilbehør">
+    Suppe
+    </ret>
+  </menukort>
+</havnegrillen>
