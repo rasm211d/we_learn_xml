@@ -1,16 +1,16 @@
 <billeder>
   <memefolder>
-    <meme1>
-      <navn>cosbystinkdyr<\navn>
-      <rating>420<\rating>
-    <\meme1>
-    <meme2>
-      <navn>martindab<\navn>
-      <rating>1337<\rating>
-    <\meme2>
-    <meme3>
-      <navn>madsderbaenker<\navn>
-      <rating>9001<\rating>
-    <\meme3>
-  <\memfolder>
-<\billeder>
+    <meme>
+      <navn>cosbystinkdyr</navn>
+      <rating>420</rating>
+    </meme>
+    <meme>
+      <navn>martindab</navn>
+      <rating>1337</rating>
+    </meme>
+    <meme>
+      <navn>madsderbaenker</navn>
+      <rating>9001</rating>
+    </meme>
+  </memfolder>
+</billeder>
