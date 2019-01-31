@@ -5,7 +5,7 @@ Jeg kan kommentere over flere linjer
 -->
 
 <mercedes>
-  <køretøjer>
+  <koeretoejer>
     <bil type = "personbil">
     <type> c63 amg </type>
     <pris> 1.000.000 </pris>
@@ -14,7 +14,7 @@ Jeg kan kommentere over flere linjer
     <bil type = "lasbil">
     <type> axor </type>
     <pris> 1.500.000 </pris>
-    </lasbil>
+    </bil>
     
-    </køretøjer>    
+    </koeretoejer>    
     </mercedes>
