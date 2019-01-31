@@ -1,0 +1,13 @@
+# Mathias.xml
+<?xml version="1.0" encoding="UTF-8"?>
+
+Elgiganten
+<!-- Denne xml inderholder data om koden -->
+
+<butik>
+  <spil>
+    <playstation>
+      <type> sport </type>
+    </playstation>
+  </spil>  
+</butik> 
