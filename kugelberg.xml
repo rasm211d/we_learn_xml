@@ -1,0 +1,35 @@
+<!-- Denne XML fil indeholder data for kontaktpersoner -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Kontakter>
+  <Kontakt>
+    <Navn>András</Navn>
+    <Telefon type="personligt">+4511223344</Telefon>
+    <Telefon type="arbejde">+4555667788</Telefon>
+    <Email type="personligt">minpersonlige@email.easj</Email>
+    <Email type="arbejde">minarbejdsmail@easj.dk</Email>
+    <Adresse>
+      <Land>Danmark</Land>
+      <Postnr>4700</Postnr>
+      <By>Næver</By>
+    </Adresse>
+  </Kontakt>
+  
+  
+  <Kontakt>
+    <Navn>Grúne</Navn>
+    <Telefon type="personligt">++4592859683</Telefon>
+    <Telefon type="arbejde">+4583958375</Telefon>
+    <Email type="personligt">grune@email.easj</Email>
+    <Email type="arbejde">flotte@easj.dk</Email>
+    <Adresse>
+      <Land>Danmark</Land>
+      <Postnr>4760</Postnr>
+      <By>Vordingborg</By>
+    </Adresse>
+  </Kontakt>
+  
+  
+
+</Kontakter>
