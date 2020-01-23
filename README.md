@@ -18,9 +18,9 @@ Json kan ca. det samme som XML, men er simplere.
 
 **Json består af key-value pairs.**
 
-```{}``` - står for et tøm objekt
+```{}``` - repræsenterer et objekt
 
-```[]``` - står for et tøm array
+```[]``` - repræsenterer et array
 
 Et eksempel på et personobjekt: 
 ```{
