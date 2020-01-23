@@ -1,0 +1,35 @@
+
+<!-- Kommentarer kan forekomme indefor disse tegn -->
+<!--
+Multiline kommentarer vil
+derfor se således ud
+-->
+
+<!-- Xml udarbejdet af Cosby!! -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vehicle> <!--root element-->
+
+  <bil category="personbil"> <!-- child element 1/3 -->
+    <make>Mercedes</make>
+    <model>E300D</model>
+    <fuel>diesel</fuel>
+    <year>1996</year>
+  </bil>
+
+  <car category="lastbil"> <!-- child element 2/3 -->
+    <make>Man</make>
+    <model>tgx 20000</model>
+    <fuel>diesel</fuel>
+    <year>2015</year>
+  </car>
+
+  <motorcycle category="sports/touring"> <!-- child element 3/3 -->
+    <make>Kawasaki</make>
+    <model>ZX10</model>
+    <fuel>benzin (oktan 95)</fuel>
+    <year>1988</year>
+  </motorcycle>  
+  
+</vehicle>
