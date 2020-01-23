@@ -50,5 +50,5 @@ Et eksempel på et personobjekt:
   ],
   "children": [],
   "spouse": null
-}``` står for et objekt
+}```
 
