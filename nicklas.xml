@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Dette er et eksempel på en xml fil
+Jeg kan kommentere over flere linjer
+-->
+
+<mercedes>
+  <koeretoejer>
+    <bil type = "personbil">
+    <type> c63 amg </type>
+    <pris> 1.000.000 </pris>
+    </bil>
+    
+    <bil type = "lasbil">
+    <type> axor </type>
+    <pris> 1.500.000 </pris>
+    </bil>
+    
+    </koeretoejer>    
+    </mercedes>
