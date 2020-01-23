@@ -14,3 +14,4 @@
 
 # Vores fælles noter om JSON
 
+Json kan ca. det samme som XML, men er simplere.
