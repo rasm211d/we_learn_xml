@@ -1,4 +1,4 @@
-# Øvelse, hvor vi lærer XML
+# Vores fælles noter om XML
 
 ```<tag> data </tag> ``` - der kan frit defineres start- og sluttags
 
@@ -11,3 +11,6 @@
 ```<?xml version="1.0" encoding="UTF-8"?>``` - kan begynde med declarations, men ikke et krav
 
 ```<!-- kommentar -->```  - kommentarer skrives sådan
+
+# Vores fælles noter om JSON
+
