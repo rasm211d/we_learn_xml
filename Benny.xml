@@ -1,13 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <MagictheGathering>
   <deck>
-    <spell navn="Opt" manacost="U" type="instant"></spell>
-    <spell navn="Negate" manacost="1U" type="instant"></spell>
-    <spell navn="Disallow" manacost="1UU" type="instant"></spell>
-    <spell navn="Teferi, Hero of Dominaria" manacost="3WU" type="planeswalker"></spell>
-    <spell navn="Supreme Verdict" manacost="1WWU" type="sorcery"></spell>
-    <card navn="Island" type="land"></card>
-    <card navn="Plains" type="land"></card>
-    <card navn="Glacial Fortress" type="land"></card>
+    <spell manacost="U" type="instant">Opt</spell>
+    <spell manacost="1U" type="instant">Negate</spell>
+    <spell manacost="1UU" type="instant">Disallow</spell>
+    <spell manacost="3WU" type="planeswalker">Teferi, Hero of Dominaria</spell>
+    <spell manacost="1WWU" type="sorcery">Supreme Verdict</spell>
+    <card type="land">Island</card>
+    <card type="land">Plains</card>
+    <card type="land">Glacial Fortress</card>
+    <!-- Indsæt flere kort her -->
   </deck>  
   <spiller1>Benny</spiller1>
   <spiller2>Oliver</spiller2>  
