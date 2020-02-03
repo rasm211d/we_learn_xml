@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<h1>Hello World</h1>
+<!-- Fyldestgørene kommentar -->
+
+<dyr>
+  <Hjort>
+  <hjort farve="guld" type="buk"></hjort>
+  <hjort farve="brun" type="daar"></hjort>
+  <hjort farve="hvid" type="albino"></hjort>
+  </hjort>
+ </dyr>
+  
