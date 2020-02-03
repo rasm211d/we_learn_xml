@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- A pussibel datasturctur for a mmorgp -->
+<GAME>
+  <PLAYERLIST>
+    <PLAYER id="1" STATUS="ALIVE">DefaultName</PLAYER>
+    <PLAYER id="2" STATUS="DEAD">Unnamed</PLAYER>
+    <PLAYER id="3" STATUS="ALIVE">Nobody</PLAYER>
+    <PLAYER id="4" STATUS="ALIVE">TheGamer</PLAYER>
+    <PLAYER id="5" STATUS="ALIVE">Killer99</PLAYER>
+  </PLAYERLIST>
+  <NPCLIST>
+    <NPC id="1" STATUS="ALIVE" NAME="DefaultFemale"/>
+    <NPC id="2" STATUS="ALIVE" NAME="DefaultMale"/>
+    <NPC id="3" STATUS="DEAD" NAME="TheKing"/>
+    <NPC id="4" STATUS="ALIVE" NAME="DefaultFemaleChild"/>
+    <NPC id="5" STATUS="ALIVE" NAME="DefaultMaleChild"/>
+  </NPCLIST>
+</GAME>
