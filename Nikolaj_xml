@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person>
+  <oplysninger>
+    <Navn>Nikolaj</Navn>
+    <Telefon type="personligt">+45xxxxxx</Telefon>
+    <Email type="personligt">eksemplepersonlige@email.com</Email>
+       <Adresse>
+      <Postnr>4700</Postnr>
+      <By>Næstved</by
+      <Land>Danmark</Land>
+    </Adresse>
+  </Kontakt>
+  
+<!-- første øvelse med xml --->
+
+</Person>
