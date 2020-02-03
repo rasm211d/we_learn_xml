@@ -3,6 +3,7 @@
   <brædt>
     <brik farve="sort" type="tårn" position="A0"></brik>
     <brik farve="sort" type="løber" position="A1"></brik>
+    <brik farve="sort" type="løber" position="A7" />
     <!--  OSV. -->
 </brædt>
 </skakspil>
