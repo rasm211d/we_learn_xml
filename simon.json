@@ -1,0 +1,13 @@
+{ "skole":
+  { "klasser": [
+    { "klasse":
+      "id": "1a"
+      "elever": "22"
+    }
+    { "klasse":
+      "id": "1b"
+      "elever": "27"
+    }
+    ]
+  }
+}
