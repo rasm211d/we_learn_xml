@@ -1,0 +1,43 @@
+<!-- Denne xml inholder hvor de storted brikker er på et skat bord -->
+<Chess>
+  <board>
+    <piece>
+      <black>
+        <type piece="Rook" position="A1"></type>
+        <type piece="Knight" position="A2"></type>
+        <type piece="Bishop" position="A3"></type>
+        <type piece="Queen" position="A4"></type>
+        <type piece="King" position="A5"></type>
+        <type piece="Bishop" position="A6"></type>
+        <type piece="Knight" position="A7"></type>
+        <type piece="Rook" position="A8"></type>
+        <type piece="Pawn" position="B1"></type>
+        <type piece="Pawn" position="B2"></type>
+        <type piece="Pawn" position="B3"></type>
+        <type piece="Pawn" position="B4"></type>
+        <type piece="Pawn" position="B5"></type>
+        <type piece="Pawn" position="B6"></type>
+        <type piece="Pawn" position="B7"></type>
+        <type piece="Pawn" position="B8"></type>
+       </black>
+       <white>
+        <type piece="Pawn" position="F1"></type>
+        <type piece="Pawn" position="F2"></type>
+        <type piece="Pawn" position="F3"></type>
+        <type piece="Pawn" position="F4"></type>
+        <type piece="Pawn" position="F5"></type>
+        <type piece="Pawn" position="F6"></type>
+        <type piece="Pawn" position="F7"></type>
+        <type piece="Pawn" position="F8"></type>
+        <type piece="Rook" position="G1"></type>
+        <type piece="Knight" position="G2"></type>
+        <type piece="Bishop" position="G3"></type>
+        <type piece="Queen" position="G4"></type>
+        <type piece="King" position="G5"></type>
+        <type piece="Bishop" position="G6"></type>
+        <type piece="Knight" position="G7"></type>
+        <type piece="Rook" position="G8"></type>
+       </white>
+    </piece>
+  </board>
+</Chess>
