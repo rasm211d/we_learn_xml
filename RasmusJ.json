@@ -1,0 +1,24 @@
+{ bilka: 
+    afdeling:"Elektronik" {
+      ansatte: [
+         chef: {
+            navn: "Karsten",
+            startaar: "2019"
+         }
+         teamkoordinator: {
+            navn: "Peter",
+            startaar: "2016"
+         }
+         sælger: {
+            navn: "Rasmus",
+            loen: "120kr",
+            startaar: "2015"
+         }
+         sælger: {
+            navn: "Mads",
+            loen: "120kr",
+            startaar: "2017"
+         }
+       ]
+    }   
+}
