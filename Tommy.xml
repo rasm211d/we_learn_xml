@@ -7,7 +7,7 @@
     <!-- syg status gældende: 03/02/20 -->
   </lærere>
   <studerende>
-    <Benjamin alder=31/>
-    <Tommy alder=27/>
-  </studerende
+    <Benjamin alder="31"/>
+    <Tommy alder="27"/>
+  </studerende>
 </datamatikere>
