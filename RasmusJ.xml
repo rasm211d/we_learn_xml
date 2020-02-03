@@ -2,15 +2,15 @@
 
 <bilka>
   <elektronik category="afdeling">
-    <chef navn="karsten"></chef>
-    <teamkoordinator navn="peter"></teamkoordinator>
-    <ansat navn="rasmus" loen="120kr"></ansat>
-    <ansat navn="mads" loen="119"></ansat>
+    <chef>Karsten</chef>
+    <teamkoordinator>Peter</teamkoordinator>
+    <ansat loen="120kr">Rasmus</ansat>
+    <ansat loen="119kr">Mads</ansat>
     <!-- osv. -->
   </elektronik>
   
-  <bolig category="afdeling>
-    <chef navn="morten"></chef>
-    <teamkoordinator navn="henning"></teamkoordinator>
+  <bolig category="afdeling">
+    <chef>Morten</chef>
+    <teamkoordinator>Henning</teamkoordinator>
   </bolig>
 </bilka>
