@@ -1,0 +1,21 @@
+{ "skakspil": 
+    {
+    "brædt": [
+      "brik": {
+          "farve": "sort",
+          "type": "tårn",
+          "position": "A0"
+      },
+      "brik": {
+          "farve": "sort",
+          "type": "løber",
+          "position": "A1"
+      },
+      "brik": {
+          "farve": "sort",
+          "type": "løber",
+          "position": "A2"
+      }
+    ]
+    }
+}
