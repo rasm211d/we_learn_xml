@@ -1,0 +1,14 @@
+<!-- jeg vile lave  -->
+
+<døgn>
+  <søvn> <!-- 7 timer--> </søvn>
+  <skole> <!-- 6.5 timer -->
+      <frikvarter> <!-- 1 time --> </frikvarter>
+  </skole>
+  <variabelTid> <!-- transport, madlavning, rengøring og fritid -->
+      <transport> <!-- 3 til 4.5 timer --> </transport>
+      <fritid> <!-- 1 til 3 timer --> </fritid>
+      <madlavning> <!-- 0.5 til 1.25 timer --> </madlavning>
+      <rengøring> <!-- 0 til 2 timer --> </rengøring>
+  </variabelTid>
+</døgn> 
