@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<h1>Hello World</h1>
+<header1>Hello World</header1>
 <!-- Fyldestgørene kommentar -->
 
 <dyr>
-  <Hjort>
+  <flok>
   <hjort farve="guld" type="buk"></hjort>
   <hjort farve="brun" type="daar"></hjort>
   <hjort farve="hvid" type="albino"></hjort>
-  </hjort>
- </dyr>
+  </flok>
+   <mennesker>
+  <hunter gun="sauer" type="gunman"></hunter>
+  <hunter gun="k95" type="scout"></hunter>
+  <hunter gun="no_gun" type="clapper"></hunter>
+  </mennersker>
+</dyr>
   
