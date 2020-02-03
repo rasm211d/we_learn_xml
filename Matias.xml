@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <spilbane>
-<!-- Dette under er de forskelige personer der er i spillet. -->
-<spiller farve="blå" type="nærkamp" ></spiller>
-<spiller farve="gul" type="langdistance" ></spiller>
-<fjende farve="rød" type="nærkamp"/>
-<fjende farve="rød" type="langdistance"/>
-<spilbane/>
+  
+  <!-- Dette under er de forskelige personer der er i spillet. -->
+  <spiller farve="blå" type="nærkamp" ></spiller>
+  <spiller farve="gul" type="langdistance" ></spiller>
+  
+  <fjende farve="rød" type="nærkamp"/>
+  <fjende farve="rød" type="langdistance"/>
+
+</spilbane>
