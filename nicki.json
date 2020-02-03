@@ -1,0 +1,17 @@
+{"kodesprog":
+    "liste":[
+      "sprog":[
+        "navn": "Java"
+        "version": "1.8.0"
+      ]
+      "sprog":[
+        "navn": "Python"
+        "version": 3
+      ]
+      "sprog":[
+        "navn": "PHP"
+        "version": "7.1.0"
+      ]
+    ]
+}
+
