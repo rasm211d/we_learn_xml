@@ -1,14 +1,12 @@
-<!-- jeg vile lave  -->
-
-<døgn>
-  <søvn> <!-- 7 timer--> </søvn>
-  <skole> <!-- 6.5 timer -->
-      <frikvarter> <!-- 1 time --> </frikvarter>
+<xs:time døgn >
+  <xs:time søvn enhed:time> 7 </søvn>
+  <xs:time skole> 6.5
+      <xs:time frikvarter> 1 </frikvarter>
   </skole>
-  <variabelTid> <!-- transport, madlavning, rengøring og fritid -->
-      <transport> <!-- 3 til 4.5 timer --> </transport>
-      <fritid> <!-- 1 til 3 timer --> </fritid>
-      <madlavning> <!-- 0.5 til 1.25 timer --> </madlavning>
-      <rengøring> <!-- 0 til 2 timer --> </rengøring>
+  <xs:time variabelTid> <!-- transport, madlavning, rengøring og fritid -->
+      <xs:time transport> 3 </transport>
+      <xs:time fritid> 2 </fritid>
+      <xs:time madlavning> 1 </madlavning> 
+      <xs:time rengøring> 1 </rengøring> 
   </variabelTid>
 </døgn> 
