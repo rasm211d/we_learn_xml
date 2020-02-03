@@ -3,7 +3,7 @@
   <liste>
     <sprog navn="Java" version="1.8.0"></sprog>
     <sprog navn="Python" version="3"></sprog>
-    <sprog navn="PHP" version="7.1.0">
+    <sprog navn="PHP" version="7.1.0"></sprog>
     <!--  Flere sprog som de kommer -->
   </liste>
 </kodesprog>
