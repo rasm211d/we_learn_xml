@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Welcome to my xml -->
+
+<foodcrawl>
+  <leder>
+    <Navn type = "fornavn">Palle</navn>
+    <Navn type = "efternavn">Stina</navn>
+    <stilling> Tourleder </stilling>
+  
+  </leder>
+  <Ansatte>
+    <Navn type = "fornavn">Dan</navn>
+    <Navn type = "efternavn">Dan</navn>
+    <stilling> Burgerflipper </stilling>
+  </Ansatte>
+  
+
+</foodcrawl>
