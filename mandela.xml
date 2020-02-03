@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <willtolivegone>
+  
   <programmingstart>
-    <fun bideo_james="yes" type="action">
-    <fun drugs="no" type="happy_time">
-    <!-- i have no idea what i am doing and neither does Andras -->
+    
+    <fun bideo_james="yes" type="action"></fun>
+    <fun drugs="no" type="happy_time"></fun>
+    <!-- i'm no longer McLoving it -->
+    
   </programmingstart>
+  
 </willtolivegone>
