@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <skakspil>
   <brædt>
     <brik farve="sort" type="tårn" position="A0"></brik>
     <brik farve="sort" type="løber" position="A1"></brik>
-    <brik farve="sort" type="løber" position="A7" />
-    <!--  OSV. -->
+    <brik farve="sort" type="løber" position="A7" />    
+    <!--  KOMMENTAR: Tilføj flere brikker. -->
 </brædt>
+
+<spiller1> Anders </spiller1>
+<spiller2> Tommy </spiller2>
+
 </skakspil>
